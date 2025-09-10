@@ -1,0 +1,2 @@
+### This is just much more simple HTTP-based implementation, just for very basic understanding of what the blockchain is and how it works in general.
+### You can run run_flask.sh file which will run 3 different flask servers (think as nodes) and you can use some API testing tools to call different blockchain methods. it was just educational, after this I wanted to create something more realistic simulation of blockchain and P2P networking.
